@@ -1,1 +1,1 @@
-#Python LCD (I2C) Email Notification for Raspberry Pi
+# Python LCD (I2C) Email Notification for Raspberry Pi
