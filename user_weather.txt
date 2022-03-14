@@ -1,1 +1,0 @@
-https://api.open-meteo.com/v1/forecast?latitude=42.4698&longitude=-70.942&current_weather=true&timeformat=unixtime
