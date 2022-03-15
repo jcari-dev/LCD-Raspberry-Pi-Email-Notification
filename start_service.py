@@ -24,7 +24,6 @@ else:
         if country.upper() not in supported_countries.country_codes:
             print("We're sorry, your country is currently not supported. Skipping weather functionality.")
             exit()
-            
         else:
             valid_country = True
             
