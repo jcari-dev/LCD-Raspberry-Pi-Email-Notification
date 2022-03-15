@@ -4,11 +4,6 @@ import re
 from geodecode import decode_postal_code as decode
 from geodecode import supported_countries
 
-
-# response = requests.get("https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&hourly=temperature_2m")
-
-# print(response.json())
-
 while 1:
     
     get_weather = input('Do you wish to add local weather to your PI LCD? (y/n)')
